@@ -1,0 +1,20 @@
+* {
+    --code-background: #1f2930;
+    --code-normal: #cccac2;
+    --code-comment: #b8cfe680;
+    --code-string: #d5ff80;
+    --code-value: #dfbfff;
+    --code-property: #f28779;
+    --code-keyword: #ffad66;
+    --code-operator: #f29e74;
+    --code-punctuation: #cccac2;
+    --code-function: #5ccfe6;
+    --font-monospace: "iosevka", "iosevka ss07";
+    --pre-code: var(--code-background);
+    --code-size: 1.1em; 
+}
+.markdown-preview-section pre code {
+    padding: 8px;
+    font-size: var(--code-size);
+    line-height: 1.42em;
+}

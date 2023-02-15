@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "baseFontSize": 20,
+  "cssTheme": "Red Graphite",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "Iosevka",
+  "enabledCssSnippets": [
+    "ayu-code-theme",
+    "better-italic-text",
+    "better-bold-text",
+    "better-math"
+  ],
+  "theme": "obsidian"
+}

@@ -1,0 +1,5 @@
+* {
+    --icon-stroke: 3.2;
+    --bold-weight: 700;
+    --bold-color: var(--color-cyan);
+}
